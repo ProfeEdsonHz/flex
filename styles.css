@@ -1,0 +1,48 @@
+body {
+	background-color: beige;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.box {
+	height: 150px;
+	width: 150px;
+}
+
+/*---------------------------------------
+TODAS LAS REGAS A CONTINUACIÓN SON DE BOX
+----------------------------------------*/
+.box-red {
+	background-color: tomato;
+	font-family: 'Alatsi', sans-serif;
+	font-size: 22px;
+}
+
+.box-blue {
+	background-color: lightblue;
+	font-family: 'Allerta', sans-serif;
+	font-size: 22px;
+}
+
+.box-purple {
+	background-color: mediumpurple;
+	font-family: 'Amaranth', sans-serif;
+	font-size: 22px;
+}
+
+.box-orange {
+	background-color: sandybrown;
+	font-family: 'Bangers', sans-serif;
+	font-size: 22px;
+}
+/*---------------------------------------
+                   FIN
+----------------------------------------*/
+
+img {
+
+	width:75%;
+}
