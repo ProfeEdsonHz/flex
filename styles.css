@@ -4,7 +4,7 @@ body {
 
 .container {
 	display: flex;
-	justify-content: center;
+
 }
 
 .box {
@@ -25,6 +25,7 @@ TODAS LAS REGAS A CONTINUACIÓN SON DE BOX
 	background-color: lightblue;
 	font-family: 'Allerta', sans-serif;
 	font-size: 22px;
+	order:-1;
 }
 
 .box-purple {
@@ -37,6 +38,7 @@ TODAS LAS REGAS A CONTINUACIÓN SON DE BOX
 	background-color: sandybrown;
 	font-family: 'Bangers', sans-serif;
 	font-size: 22px;
+	order:-2;
 }
 /*---------------------------------------
                    FIN
